@@ -2,7 +2,7 @@
 Mobile Computing Final Project : SayToUnlock
 
 <SayToUnlock>
-App(java) -> dir : app (Android Studio)
+App(java) -> dir : app (Android Studio) <br>
 Server(python) -> dir : PyServer (Pycham)
 
 May & June, 2018
